@@ -1,0 +1,5 @@
+Notes
+
+
+ex1 and ex2 demonstrate that this method may produce an invariant set for preview=2, but not for preview=1.
+The dynamics of ex1,ex2 are the same, representing a single integrator but with the input delayed by 2.
